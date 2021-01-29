@@ -4,7 +4,7 @@
 
 A board game searching app that allows you to find any board game based on your criteria.
 
-[Sleuth for games here on the live site!](https://mdflynn.github.io/game-sleuth/)
+[Sleuth for games here on the live site!](https://Shawntru.github.io/game-sleuth/)
 
 ## Goals
 * Create a React app that has user interaction with use of a REST Api
